@@ -1,1 +1,2 @@
-num
+
+            if(arr[i] < min){
